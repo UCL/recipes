@@ -2,4 +2,6 @@
 -avocado
 -lime
 -salt
-# Instructions
+# Instruction
+- put one avocado into a bowl
+
